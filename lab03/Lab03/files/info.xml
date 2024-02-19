@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TVProgram>
+    <News name="ONT" duration="6">
+    </News>
+    <Entertainment name="StandUp" duration="9">
+    </Entertainment>
+    <Documentary name="Documentalka123" duration="1">
+    </Documentary>
+</TVProgram>
