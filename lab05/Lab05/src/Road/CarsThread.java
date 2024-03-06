@@ -22,8 +22,8 @@ public class CarsThread implements Runnable{
 
                 for (int i = 0; i < remontPlace.bandwidth; i++) {
                     if(carsCount == 0){
-                        semaphore.release();
                         System.out.println("На полосе " + this.roadSide + " не осталось автомобилей");
+                        semaphore.release();
                         return;
                     }
                     System.out.println("Автомобиль " + carsCount + " начал движение");

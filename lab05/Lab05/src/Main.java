@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) throws InterruptedException {
         // task 1
         /*final int OPERATORS_COUNTY = 3;
-        final int CLIENTS_COUNTY = 6;
+        final int CLIENTS_COUNTY = 7;
 
         CallCenter callCenter = new CallCenter(OPERATORS_COUNTY);
 

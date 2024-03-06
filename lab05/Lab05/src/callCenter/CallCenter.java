@@ -46,6 +46,9 @@ public class CallCenter {
                     System.out.println(getName() + " finished servicing " + client.getName());
                     client.notifyServiced();  // Уведомляем клиента, что он обслужен
                 } catch (InterruptedException e) {}
+                if(waitingQueue.isEmpty()){
+                    return;
+                }
             }
         }
     }
