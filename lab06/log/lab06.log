@@ -1,0 +1,125 @@
+18.03.2024 11:12:02 [main] INFO  Main  - Starting program_____________________________
+18.03.2024 11:12:03 [main] INFO  DataBaseConnector  - Подключение прошло успешно!
+18.03.2024 11:14:36 [main] INFO  Main  - Starting program_____________________________
+18.03.2024 11:14:36 [main] INFO  DataBaseConnector  - Подключение прошло успешно!
+18.03.2024 11:29:35 [main] INFO  Main  - Starting program_____________________________
+18.03.2024 11:29:36 [main] INFO  DataBaseConnector  - Подключение прошло успешно!
+18.03.2024 13:20:18 [main] INFO  Main  - Starting program_____________________________
+18.03.2024 13:20:19 [main] INFO  DataBaseConnector  - Подключение прошло успешно!
+18.03.2024 13:20:19 [main] INFO  DataBaseConnector  - Жители города лида ,говорящие на языке славянский
+18.03.2024 13:20:19 [main] INFO  DataBaseConnector  - лида пан славянский 121
+18.03.2024 13:20:19 [main] INFO  DataBaseConnector  - Жители типа боярин проживают в городах:
+
+18.03.2024 13:20:19 [main] INFO  DataBaseConnector  - гродно
+18.03.2024 13:20:19 [main] INFO  DataBaseConnector  - минск
+18.03.2024 13:21:20 [main] INFO  Main  - Starting program_____________________________
+18.03.2024 13:21:20 [main] INFO  DataBaseConnector  - Подключение прошло успешно!
+18.03.2024 13:21:20 [main] INFO  DataBaseConnector  - Жители города лида ,говорящие на языке славянский
+18.03.2024 13:21:20 [main] INFO  DataBaseConnector  - лида пан славянский 121
+18.03.2024 13:21:20 [main] INFO  DataBaseConnector  - Жители типа боярин проживают в городах:
+18.03.2024 13:21:20 [main] INFO  DataBaseConnector  - гродно
+18.03.2024 13:21:20 [main] INFO  DataBaseConnector  - минск
+18.03.2024 13:53:47 [main] INFO  Main  - Starting program_____________________________
+18.03.2024 13:53:48 [main] INFO  DataBaseConnector  - Подключение прошло успешно!
+18.03.2024 13:53:48 [main] INFO  DataBaseConnector  - Жители города лида ,говорящие на языке славянский
+18.03.2024 13:53:48 [main] INFO  DataBaseConnector  - лида пан славянский 121
+18.03.2024 13:53:48 [main] INFO  DataBaseConnector  - лида боярин славянский 121
+18.03.2024 13:53:48 [main] INFO  DataBaseConnector  - Жители типа боярин проживают в городах:
+18.03.2024 13:53:48 [main] INFO  DataBaseConnector  - гродно
+18.03.2024 13:53:48 [main] INFO  DataBaseConnector  - минск
+18.03.2024 13:53:48 [main] INFO  DataBaseConnector  - лида
+18.03.2024 13:53:48 [main] INFO  DataBaseConnector  - Города с населением 1827 :
+18.03.2024 13:53:48 [main] INFO  DataBaseConnector  - лида пан славянский 121 лида 783 72367 1827
+18.03.2024 13:53:48 [main] INFO  DataBaseConnector  - лида боярин славянский 121 лида 783 72367 1827
+18.03.2024 13:54:40 [main] INFO  Main  - Starting program_____________________________
+18.03.2024 13:54:40 [main] INFO  DataBaseConnector  - Подключение прошло успешно!
+18.03.2024 13:54:40 [main] INFO  DataBaseConnector  - Жители города лида ,говорящие на языке славянский
+18.03.2024 13:54:40 [main] INFO  DataBaseConnector  - лида пан славянский 121
+18.03.2024 13:54:40 [main] INFO  DataBaseConnector  - лида боярин славянский 121
+18.03.2024 13:54:40 [main] INFO  DataBaseConnector  - Жители типа боярин проживают в городах:
+18.03.2024 13:54:40 [main] INFO  DataBaseConnector  - гродно
+18.03.2024 13:54:40 [main] INFO  DataBaseConnector  - минск
+18.03.2024 13:54:40 [main] INFO  DataBaseConnector  - лида
+18.03.2024 13:54:40 [main] INFO  DataBaseConnector  - Города с населением 1827 :
+18.03.2024 13:54:59 [main] INFO  Main  - Starting program_____________________________
+18.03.2024 13:55:00 [main] INFO  DataBaseConnector  - Подключение прошло успешно!
+18.03.2024 13:55:00 [main] INFO  DataBaseConnector  - Жители города лида ,говорящие на языке славянский
+18.03.2024 13:55:00 [main] INFO  DataBaseConnector  - лида пан славянский 121
+18.03.2024 13:55:00 [main] INFO  DataBaseConnector  - лида боярин славянский 121
+18.03.2024 13:55:00 [main] INFO  DataBaseConnector  - Жители типа боярин проживают в городах:
+18.03.2024 13:55:00 [main] INFO  DataBaseConnector  - гродно
+18.03.2024 13:55:00 [main] INFO  DataBaseConnector  - минск
+18.03.2024 13:55:00 [main] INFO  DataBaseConnector  - лида
+18.03.2024 13:55:00 [main] INFO  DataBaseConnector  - Города с населением 1827 :
+18.03.2024 13:55:00 [main] INFO  DataBaseConnector  - лида пан славянский 121 лида 783 72367 1827
+18.03.2024 13:55:00 [main] INFO  DataBaseConnector  - лида боярин славянский 121 лида 783 72367 1827
+18.03.2024 13:56:24 [main] INFO  Main  - Starting program_____________________________
+18.03.2024 13:56:24 [main] INFO  DataBaseConnector  - Подключение прошло успешно!
+18.03.2024 13:56:24 [main] INFO  DataBaseConnector  - Жители города лида ,говорящие на языке славянский
+18.03.2024 13:56:24 [main] INFO  DataBaseConnector  - лида пан славянский 121
+18.03.2024 13:56:24 [main] INFO  DataBaseConnector  - лида боярин славянский 121
+18.03.2024 13:56:24 [main] INFO  DataBaseConnector  - Жители типа боярин проживают в городах:
+18.03.2024 13:56:24 [main] INFO  DataBaseConnector  - гродно
+18.03.2024 13:56:24 [main] INFO  DataBaseConnector  - минск
+18.03.2024 13:56:24 [main] INFO  DataBaseConnector  - лида
+18.03.2024 13:56:24 [main] INFO  DataBaseConnector  - Города с населением 1827 :
+18.03.2024 13:56:24 [main] INFO  DataBaseConnector  - лида пан славянский 121 783 72367 1827
+18.03.2024 13:56:24 [main] INFO  DataBaseConnector  - лида боярин славянский 121 783 72367 1827
+18.03.2024 14:08:02 [main] INFO  Main  - Starting program_____________________________
+18.03.2024 14:08:03 [main] INFO  DataBaseConnector  - Подключение прошло успешно!
+18.03.2024 14:08:03 [main] INFO  DataBaseConnector  - Жители города лида ,говорящие на языке славянский
+18.03.2024 14:08:03 [main] INFO  DataBaseConnector  - лида пан славянский 121
+18.03.2024 14:08:03 [main] INFO  DataBaseConnector  - лида боярин славянский 121
+18.03.2024 14:08:03 [main] INFO  DataBaseConnector  - Жители типа боярин проживают в городах:
+18.03.2024 14:08:03 [main] INFO  DataBaseConnector  - гродно
+18.03.2024 14:08:03 [main] INFO  DataBaseConnector  - минск
+18.03.2024 14:08:03 [main] INFO  DataBaseConnector  - лида
+18.03.2024 14:08:03 [main] INFO  DataBaseConnector  - Города с населением 1827 :
+18.03.2024 14:08:03 [main] INFO  DataBaseConnector  - лида пан славянский 121 783 72367 1827
+18.03.2024 14:08:03 [main] INFO  DataBaseConnector  - лида боярин славянский 121 783 72367 1827
+18.03.2024 14:08:03 [main] INFO  DataBaseConnector  - Самый древний город: 
+18.03.2024 14:08:03 [main] INFO  DataBaseConnector  - минск
+18.03.2024 14:08:20 [main] INFO  Main  - Starting program_____________________________
+18.03.2024 14:08:20 [main] INFO  DataBaseConnector  - Подключение прошло успешно!
+18.03.2024 14:08:20 [main] INFO  DataBaseConnector  - Жители города лида ,говорящие на языке славянский
+18.03.2024 14:08:20 [main] INFO  DataBaseConnector  - лида пан славянский 121
+18.03.2024 14:08:20 [main] INFO  DataBaseConnector  - лида боярин славянский 121
+18.03.2024 14:08:20 [main] INFO  DataBaseConnector  - Жители типа боярин проживают в городах:
+18.03.2024 14:08:20 [main] INFO  DataBaseConnector  - гродно
+18.03.2024 14:08:20 [main] INFO  DataBaseConnector  - минск
+18.03.2024 14:08:20 [main] INFO  DataBaseConnector  - лида
+18.03.2024 14:08:21 [main] INFO  DataBaseConnector  - Города с населением 1827 :
+18.03.2024 14:08:21 [main] INFO  DataBaseConnector  - лида пан славянский 121 783 72367 1827
+18.03.2024 14:08:21 [main] INFO  DataBaseConnector  - лида боярин славянский 121 783 72367 1827
+18.03.2024 14:08:21 [main] INFO  DataBaseConnector  - Самый древний город: 
+18.03.2024 14:08:21 [main] INFO  DataBaseConnector  - лида
+18.03.2024 19:33:29 [main] INFO  Main  - Starting program_____________________________
+18.03.2024 19:33:29 [main] INFO  DataBaseConnector  - Подключение прошло успешно!
+18.03.2024 19:33:29 [main] INFO  DataBaseConnector  - Жители города лида ,говорящие на языке славянский
+18.03.2024 19:33:29 [main] INFO  DataBaseConnector  - лида пан славянский 121
+18.03.2024 19:33:29 [main] INFO  DataBaseConnector  - лида боярин славянский 121
+18.03.2024 19:33:29 [main] INFO  DataBaseConnector  - Жители типа боярин проживают в городах:
+18.03.2024 19:33:29 [main] INFO  DataBaseConnector  - гродно
+18.03.2024 19:33:29 [main] INFO  DataBaseConnector  - минск
+18.03.2024 19:33:29 [main] INFO  DataBaseConnector  - лида
+18.03.2024 19:33:29 [main] INFO  DataBaseConnector  - Города с населением 1827 :
+18.03.2024 19:33:29 [main] INFO  DataBaseConnector  - лида пан славянский 121 783 72367 1827
+18.03.2024 19:33:29 [main] INFO  DataBaseConnector  - лида боярин славянский 121 783 72367 1827
+18.03.2024 19:33:29 [main] INFO  DataBaseConnector  - Самый древний город: 
+18.03.2024 19:33:29 [main] INFO  DataBaseConnector  - лида
+18.03.2024 19:33:29 [main] INFO  DataBaseConnector  - Подключение удалено!
+18.03.2024 19:56:59 [main] INFO  Main  - Starting program_____________________________
+18.03.2024 19:56:59 [main] INFO  DataBaseConnector  - Подключение прошло успешно!
+18.03.2024 19:56:59 [main] INFO  DataBaseConnector  - Жители города лида ,говорящие на языке славянский
+18.03.2024 19:56:59 [main] INFO  DataBaseConnector  - лида пан славянский 121
+18.03.2024 19:56:59 [main] INFO  DataBaseConnector  - лида боярин славянский 121
+18.03.2024 19:56:59 [main] INFO  DataBaseConnector  - Жители типа боярин проживают в городах:
+18.03.2024 19:56:59 [main] INFO  DataBaseConnector  - гродно
+18.03.2024 19:56:59 [main] INFO  DataBaseConnector  - минск
+18.03.2024 19:56:59 [main] INFO  DataBaseConnector  - лида
+18.03.2024 19:56:59 [main] INFO  DataBaseConnector  - Города с населением 1827 :
+18.03.2024 19:56:59 [main] INFO  DataBaseConnector  - лида пан славянский 121 783 72367 1827
+18.03.2024 19:56:59 [main] INFO  DataBaseConnector  - лида боярин славянский 121 783 72367 1827
+18.03.2024 19:56:59 [main] INFO  DataBaseConnector  - Самый древний город: 
+18.03.2024 19:56:59 [main] INFO  DataBaseConnector  - лида
+18.03.2024 19:56:59 [main] INFO  DataBaseConnector  - Подключение удалено!
