@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cars>
+    <car>
+        <model>S-class</model>
+        <company>Mercedes</company>
+        <price>1000000</price>
+    </car>
+    <car>
+        <model>G-class</model>
+        <company>Mercedes</company>
+        <price>1000000</price>
+    </car>
+    <car>
+        <model>G-class</model>
+        <company>Mercedes</company>
+        <price>1000000</price>
+    </car>
+</cars>
