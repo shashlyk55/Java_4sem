@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<ProgramGuide>
-    <News name="novosti1" duration="3"/>
-    <News name="novosti2" duration="4"/>
-    <Documentary name="qwerty" duration="6"/>
-</ProgramGuide>
